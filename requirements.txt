@@ -1,0 +1,1 @@
+torch&gt;=2.0.0 sentencepiece&gt;=0.1.99 tqdm&gt;=4.66.1 numpy&gt;=1.24.0
