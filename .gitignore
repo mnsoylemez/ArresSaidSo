@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Data and Models
+data/*.json
+data/*.txt
+data/*.model
+data/*.vocab
+models/*.pth
+
+# IDEs
+.vscode/
+.idea/
+
+# Miscellaneous
+*.log
+*.DS_Store
